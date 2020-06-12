@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name ACT4088)(type Legacy)(uri ${KIPRJMOD}/symbols/ACT4088.lib)(options "")(descr ""))
+  (lib (name BSP75)(type Legacy)(uri ${KIPRJMOD}/symbols/BSP75.lib)(options "")(descr ""))
+  (lib (name DRV8811PWP)(type Legacy)(uri ${KIPRJMOD}/symbols/DRV8811PWP.lib)(options "")(descr ""))
+  (lib (name SST26VF064B-104V_MF)(type Legacy)(uri ${KIPRJMOD}/symbols/SST26VF064B-104V_MF.lib)(options "")(descr ""))
+)
